@@ -9,7 +9,7 @@ https://github.com/htc-ccis2591/slider-puzzle
 You’ll want to begin each assignment by forking the repository and cloning it locally.  When you are done, you’ll push to GitHub and submit a pull request.
 
 ## Intro
-In this assignment we will make an image slider puzzle using jQuery.  To begin, you will want to download the PuzzlePage starter project from D2L.  Open the HTML file in a browser and you’ll see the puzzle, but it doesn’t do anything yet.
+In this assignment we will make an image slider puzzle using jQuery.  Open the HTML file in a browser and you’ll see the puzzle, but it doesn’t do anything yet.
 
 1. Add a new puzzle.js file to the project and set it up using the module pattern.
 
