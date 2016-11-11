@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    font-family: Papyrus,fantasy;
+    font-family: Papyrus, fantasy;
     font-size: 2em;
 }
 
@@ -22,7 +22,7 @@ header {
     width: 452px;
 }
 
-#puzzleGrid.win{
+#puzzleGrid.win {
     background: url('images/BorderGreen.png');
     background-repeat: no-repeat;
 }
