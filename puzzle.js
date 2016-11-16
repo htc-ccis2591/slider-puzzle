@@ -1,33 +1,5 @@
 $(document).ready(function () {
     tileClick();
-    
-//        //button
-//    $("#puzzle").append('<button id="replace">Reset</button>');
-//    $("#puzzle").append('<button>Help</button>');
-//    $('button').css({"margin": "25px 25px 25px 25px"});
-//    
-//    //Reset
-//    $("#replace").on("click", function() {
-//        $("#puzzleGrid").load("puzzle.html #puzzleGrid");
-//        console.log($('td'));
-//        tileClick();
-//    });
-    
-	
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 //endtag    
 });
 
